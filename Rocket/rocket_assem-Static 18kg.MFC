@@ -1,0 +1,16 @@
+[StartTime]
+rocket_assem-Static 18kg.MFC=4s
+[SolverState]
+rocket_assem-Static 18kg.MFC=2
+[MainFrame]
+rocket_assem-Static 18kg.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+rocket_assem-Static 18kg.MFC=No
+[SolverType]
+rocket_assem-Static 18kg.MFC=Linear Analysis
+[StudyType]
+rocket_assem-Static 18kg.MFC=0
+[StudyName]
+rocket_assem-Static 18kg.MFC=Static 18kg
+[Solver]
+rocket_assem-Static 18kg.MFC=Sparse

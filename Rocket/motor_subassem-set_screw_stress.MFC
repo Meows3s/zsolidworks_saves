@@ -1,0 +1,18 @@
+[StartTime]
+motor_subassem-set_screw_stress.MFC=6s
+[SolverState]
+motor_subassem-set_screw_stress.MFC=2
+[MainFrame]
+motor_subassem-set_screw_stress.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+motor_subassem-set_screw_stress.MFC=No
+[SolverType]
+motor_subassem-set_screw_stress.MFC=Linear Analysis
+[StudyType]
+motor_subassem-set_screw_stress.MFC=0
+[StudyName]
+motor_subassem-set_screw_stress.MFC=set_screw_stress
+[Solver]
+motor_subassem-set_screw_stress.MFC=Sparse
+[Dynamic]
+motor_subassem-set_screw_stress.MFC=0
